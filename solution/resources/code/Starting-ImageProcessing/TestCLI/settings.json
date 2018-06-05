@@ -1,0 +1,15 @@
+﻿{
+  "CognitiveServicesKeys": {
+    "Vision": "aa3457c994614030836f3679579409ed"
+  },
+  "AzureStorage": {
+    "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=hackfest;AccountKey=rXJ0gMwTm39FuhYStTf10YgapkW3RkpGEhowvc7RPwcQFC2+ZyxcPLDh/ab4ZutkhRUvi4Qpy5TGbvdh3t+Gdw==;EndpointSuffix=core.usgovcloudapi.net",
+    "BlobContainer": "images"
+  },
+  "CosmosDB": {
+    "EndpointURI": "https://cogsvcstutorial.documents.azure.us:443/",
+    "Key": "W6EjCd45rV3A9XllfwDVKww64EtSVKgKzTaMQhnVKt7Nh3M0NyA8dQXPrlKpKOpQNr7R8weyTRlNP6rg8TulCA==",
+    "DatabaseName": "images",
+    "CollectionName": "metadata"
+  }
+}
